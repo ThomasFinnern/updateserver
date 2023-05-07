@@ -5,7 +5,7 @@
 		<description>Update for module J!4 standard icons v0.2.0</description>
 		<element>mod_j4_standard_icons</element>
 		<type>module</type>
-		<version>0.1.</version>
+		<version>0.2.0</version>
 		<downloads>
 			<downloadurl type="upgrade" format="zip">https://github.com/ThomasFinnern/mod_j4_standard_icons/releases/download/v0.2.0/mod_j4_standard_icons.v0.2.0.zip</downloadurl>
 		</downloads>
@@ -14,6 +14,5 @@
 		<targetplatform name="joomla" version="4.*"/>
 		<folder>user</folder> 
 		<client>0</client>
-		<!--infourl>rsgallery2.nl</infourl-->
 	</update>
 </updates>
