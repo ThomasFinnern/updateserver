@@ -8,7 +8,7 @@
 		<folder></folder>
 		<client>site</client>
 		<version>0.2.0</version>
-		<changelogurl>https://raw.githubusercontent.com/ThomasFinnern/plg_remote_markdown/master/changelog.xml</changelogurl>
+		<changelogurl>https://raw.githubusercontent.com/ThomasFinnern/mod_j4_standard_icons/main/changelog.xml</changelogurl>
 		<downloads>
 			<downloadurl type="upgrade" format="zip">https://github.com/ThomasFinnern/mod_j4_standard_icons/releases/download/v0.2.0/mod_j4_standard_icons.v0.2.0.zip</downloadurl>
 		</downloads>
