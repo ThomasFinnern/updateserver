@@ -6,7 +6,7 @@
 		<element>mod_j4_standard_icons</element>
 		<type>module</type>
 		<client>site</client>
-		<version>0.1.</version>
+		<version>0.2.0</version>
 		<downloads>
 			<downloadurl type="upgrade" format="zip">https://github.com/ThomasFinnern/mod_j4_standard_icons/releases/download/v0.2.0/mod_j4_standard_icons.v0.2.0.zip</downloadurl>
 		</downloads>
