@@ -18,8 +18,6 @@
 		<maintainer>Thomas Finnern</maintainer>
 		<maintainerurl>www.tomfinnern.de</maintainerurl>
 		<targetplatform name="joomla" version="4.*"/>
-		<folder>user</folder> 
-		<client>0</client>
 		<!--infourl>rsgallery2.nl</infourl-->
 	</update>
 </updates>
