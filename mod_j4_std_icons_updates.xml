@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <updates>
 	<update>
-		<name>J!4 standard icons module</name>
+		<name>J!4 standard icons  display</name>
 		<description>Joomla site module. Display J!4 standard icons as icon list</description>
 		<element>mod_j4_std_icons</element>
 		<type>module</type>
 		<version>0.2.1</version>
 		<client>site</client>
-		<!--changelogurl>https://raw.githubusercontent.com/ThomasFinnern/mod_j4_standard_icons/main/changelog.xml</changelogurl-->
+		<changelogurl>https://raw.githubusercontent.com/ThomasFinnern/mod_j4_standard_icons/main/changelog.xml</changelogurl>
 		<downloads>
 			<downloadurl type="full" format="zip">https://github.com/ThomasFinnern/mod_j4_standard_icons/releases/download/v0.2.0/mod_j4_standard_icons.v0.2.0.zip</downloadurl>
 		</downloads>
